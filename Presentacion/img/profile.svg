@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#a1c4fd"/>
+      <stop offset="100%" stop-color="#c2e9fb"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)"/>
+  <circle cx="400" cy="240" r="110" fill="#ffffff" opacity="0.85"/>
+  <rect x="300" y="360" width="200" height="120" rx="16" fill="#ffffff" opacity="0.85"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial" font-size="36" fill="#0f172a">Tu foto aquí</text>
+</svg>
